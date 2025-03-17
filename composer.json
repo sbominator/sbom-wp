@@ -3,7 +3,8 @@
 	"description": "SBOMinator",
 	"type": "wordpress-plugin",
 	"require": {
-		"sbominator/sbom-lib": "^0.4.1"
+		"sbominator/sbom-lib": "^0.4.1",
+		"sbominator/scanninator": "^0.0.2"
 	},
 	"license": "MIT"
 }
