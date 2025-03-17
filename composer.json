@@ -1,0 +1,9 @@
+{
+	"name": "sbominator/wordpress-plugin",
+	"description": "SBOMinator",
+	"type": "wordpress-plugin",
+	"require": {
+		"sbominator/sbom-lib": "^0.4.1"
+	},
+	"license": "MIT"
+}
